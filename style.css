@@ -26,7 +26,7 @@ html, body{
 
 .hero{
 
-background-image: url('./images/10005.jpeg');
+background-image: url('./10005.jpeg');
 background-size: cover;
 background-position: center;
 margin: 1% 0%;
@@ -181,7 +181,7 @@ display: flex;
 }
 
 .abt-l{
-    background-image: url('./images/10004.jpeg');
+    background-image: url('./10004.jpeg');
     background-size: cover;
 }
 
